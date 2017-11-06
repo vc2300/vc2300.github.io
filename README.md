@@ -1,2 +1,2 @@
 # vc2300.github.io
-Victor's repository
+Victor's repository - in classroom
